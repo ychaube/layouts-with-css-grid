@@ -1,2 +1,3 @@
-# layouts-with-css-grid
-Building different layouts with CSS Grid
+# Layouts with CSS Grid
+
+Click [here](https://ychaube.github.io/layouts-with-css-grid) to go to view this in browser.
